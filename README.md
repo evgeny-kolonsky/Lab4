@@ -1,1 +1,1 @@
-Lab 4 Experiments data nad notebooks
+Lab 4 Experiments data and notebooks
