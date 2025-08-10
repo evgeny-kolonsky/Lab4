@@ -1,1 +1,5 @@
 Lab4 Curie experiment Data analysis
+
+Sample 1: Ferrite [Compound](https://www.mouser.co.il/ProductDetail/Fair-Rite/2631480002?qs=P8bU7i9nNAXYFpkL867Yeg%3D%3D) Fe2O3 - 65%, ZnO - 14%, MnO - 21%
+
+Sample 2 - Invar-36 (Alloy Fe - Ni 36%)
