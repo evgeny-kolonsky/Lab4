@@ -1,0 +1,13 @@
+# Press Shift+Enter to add data
+# Press Ctrl+S to save
+
+# B(mT) T(°C)	Uh(mV)	Up(mV)
+# sample 21
+# Task 2 Up(B) at I = 30 mA
+7 25.1	-30	1364
+52 25.2	-21	1364
+103 25.3	-12	1367
+151 25.2	-4	1371
+199 25.2	5	1377
+250 25.2	14	1385
+301 25.3	23	1395
