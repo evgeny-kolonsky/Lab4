@@ -1,0 +1,12 @@
+# Press Shift+Enter to add data
+# Press Ctrl+S to save
+# sample 12
+# Zero at B = 0
+# Ip T Uh Up
+-31 21.4	18	-1277
+-20 21.4	11	-813
+-10 21.4	6	-462
+0 21.3	1	-96
+10 21.1	-6	337
+20 21.1	-11	742
+30 21.3	-17	1123

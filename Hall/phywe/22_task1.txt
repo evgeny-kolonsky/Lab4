@@ -1,0 +1,12 @@
+# Press Shift+Enter to add data
+# Press Ctrl+S to save
+# sample 22 task 1# Ip(mA) T(°C)	Uh(mV)	Up(mV)
+# sample 21
+# Task 1 Uh(Ip) at B = 250 mT
+-30 20.9	-37	-1506
+-20 20.6	-25	-1020
+-10 20.5	-14	-554
+0 20.2	-3	-88
+10 20.2	9	443
+20 20.2	21	911
+30 20.2	31	1333
