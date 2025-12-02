@@ -1,0 +1,11 @@
+# Press Shift+Enter to add data
+# Press Ctrl+S to save
+# sample 14
+# Ip (mA) T(°C)	Uh(mV)	Up(mV)
+-32 19.9	-13	-1313
+-20 19.9	-8	-836
+-10 19.9	-4	-450
+0 19.9	0	-90
+11 19.9	5	385
+20 19.9	9	734
+30 20.2	13	1130

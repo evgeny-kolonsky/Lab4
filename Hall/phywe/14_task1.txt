@@ -1,0 +1,12 @@
+# Press Shift+Enter to add data
+# Press Ctrl+S to save
+# sample 14
+# B = 250 mT
+# Ip (mA) T(°C)	Uh(mV)	Up(mV)
+30 20.7	-30	1136
+20 20.3	-19	736
+10 20.6	-9	351
+0 20.4	1	2
+-10 20.3	15	-497
+-20 20.3	26	-904
+-30 20.6	36	-1236
