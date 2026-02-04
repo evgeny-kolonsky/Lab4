@@ -1,0 +1,14 @@
+# Press Shift+Enter to add data
+# Press Ctrl+S to save
+# sample 15
+# zero test
+# Ia(mA) T(°C)	Uh(mV)	Up(mV)
+-30 20.6	0	-1441
+-24 20.6	1	-1121
+-17 20.7	1	-843
+-11 20.7	1	-617
+-0 20.7	1	-31
+9 20.7	1	360
+16 20.5	0	685
+22 20.7	0	905
+30 21.3	0	1256

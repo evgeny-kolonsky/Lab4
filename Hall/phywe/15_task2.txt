@@ -1,0 +1,12 @@
+# Press Shift+Enter to add data
+# Press Ctrl+S to save
+# sample 15
+# task2 Ip = 30 mA
+# B (mT) T(°C)	Uh(mV)	Up(mV)
+300 21.9	-58	1282
+251 22.0	-48	1277
+202 22.0	-39	1273
+152 22.0	-29	1269
+101 21.9	-19	1267
+51 22.1	-10	1265
+8 22.1	-1	1265
