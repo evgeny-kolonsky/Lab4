@@ -1,7 +1,6 @@
-Column6	Column2
 X-ray (ID 01) / Crystal angle ?_c	X-ray (ID 01) / Impulse Imp
 ?_c/°	Imp/# / s
-	
+
 3.0	1363
 3.1	1083
 3.2	956
