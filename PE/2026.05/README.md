@@ -1,2 +1,5 @@
 Automated measurements with keithley picoammeter
-Green diode 525 nm
+
+Evgeny Kolonsky, Valeri Etingov 03.05.2026
+
+Green diode 525+-10 nm
