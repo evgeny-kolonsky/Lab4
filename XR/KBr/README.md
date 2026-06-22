@@ -6,4 +6,7 @@ Tested on Bragg experiment with diaphragm 2mm, #5keV, 1mA, 3-75deg with step 0.1
 
 Installed Cu lamp and Fe lamp and performed the same test.
 
+The measurement results and resume stored in the [notebook](https://github.com/evgeny-kolonsky/Lab4/blob/main/XR/KBr/Lab4_Bragg.ipynb).
+
+
 
